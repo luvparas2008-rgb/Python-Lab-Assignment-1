@@ -1,0 +1,12 @@
+----------------------------------------
+        STUDENT PROFILE SYSTEM          
+----------------------------------------
+Name:            Paras 
+Roll No:         2501660002
+Course:          bca cyber seccurity
+University:      kr mangalam univrsity
+City:            delhi
+Age:             20
+Hobby:           gaming and sports
+----------------------------------------
+Welcome to Python Programming !
